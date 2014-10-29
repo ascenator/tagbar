@@ -20,6 +20,8 @@ creates the tags it needs on-the-fly in-memory without creating any files.
 [Vim 7.0](http://www.vim.org/) (But see note below)  
 [Exuberant ctags 5.5](http://ctags.sourceforge.net/)
 
+install: sudo apt-get install exuberant-ctags
+
 ## Installation
 
 Extract the archive or clone the repository into a directory in your
